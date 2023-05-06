@@ -1,7 +1,9 @@
 # Mean-Technologies
 Self prepared notes
 
-Ref: Amos Q. Haviv - MEAN Web Development-Packt Publishing (2016)
+References: 
+
+Amos Q. Haviv - MEAN Web Development-Packt Publishing (2016)
 
 Unit-1: node.js
 
